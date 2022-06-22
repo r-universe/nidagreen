@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FracKrigingR"]
+	path = FracKrigingR
+	url = https://github.com/nidagreen/frackriging
+	shallow = true
+	registered = true
